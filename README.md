@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Pankaj Monde</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajmonde&label=Profile%20views&color=0e75b6&style=flat" alt="pankajmonde" /> </p>
 
-- 🌱 I’m currently learning **web development course**
+- 🌱 I’m currently learning full stack development
 
 - 📫 How to reach me **pankajmonde96@gmail.com**
 
-- ⚡ Fun fact **I am creative**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
