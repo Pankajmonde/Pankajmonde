@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajmonde&label=Profile%20views&color=0e75b6&style=flat" alt="pankajmonde" /> </p>
 
-- 🌱 I’m currently learning full stack development
+- 🌱 Mern Stack devleoper || Java || Python
 
-- 📫 How to reach me **pankajmonde96@gmail.com**
+- 📫 How to reach me **pankaj.monde07@gmail.com**
 
   
 
